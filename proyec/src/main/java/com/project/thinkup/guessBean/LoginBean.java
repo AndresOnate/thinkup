@@ -13,6 +13,7 @@ import org.springframework.web.context.annotation.ApplicationScope;
 @ManagedBean
 @ApplicationScope
 public class LoginBean {
+	
 	private String userName;
 
 	public LoginBean() {
